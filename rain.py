@@ -10,6 +10,6 @@ if numbers == 'no':
 	cmd = f"cat {file_name} | lolcat -f | less -R"
 if numbers == 'yes':
 	cmd = f"cat {file_name} | lolcat -f | less -N -R"
-	
-#print(cmd)
+
 os.system(cmd)
+
