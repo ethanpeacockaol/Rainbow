@@ -88,3 +88,11 @@ hit q to quit (you in less still)
 
 Alternative found:
 Remove less from cmd and just use cat to lolcat or lolcat 
+
+![Image rainbow ish](screenshots/ishcat.PNG)
+
+
+
+
+
+
