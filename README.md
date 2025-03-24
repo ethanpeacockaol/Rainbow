@@ -81,3 +81,10 @@ successful installation of rainbow:
 <hr>
 
 hit q to quit (you in less still)
+
+<br>
+<hr>
+# Does not work in ish
+
+Alternative found:
+Remove less from cmd and just use cat to lolcat or lolcat 
