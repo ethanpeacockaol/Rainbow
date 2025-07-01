@@ -110,3 +110,7 @@ ctrl+d to exit rainbow
 :)
 
 
+![Image rainbow termux](screenshots/rainbowtermux.png) 
+ 
+^ current aliases using rainbow on termux android
+
