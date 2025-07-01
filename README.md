@@ -93,6 +93,20 @@ Remove less from cmd and just use cat to lolcat or lolcat
 
 
 
+<hr> 
 
+# Termux Fix:  
+
+remove everything after lolcat in between quotes for both lines, 
+
+add this alias along with the previous ones to bashrc:  
+
+alias rainbow="sh /data/data/com.termux/files/home/GitHub/Rainbow/rain_mobile.sh"  
+
+now when you call rainbow $yourfilename$ a new tmux window will open and display your file only preventing overscrolling through history 
+
+ctrl+d to exit rainbow 
+
+:)
 
 
