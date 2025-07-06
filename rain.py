@@ -7,9 +7,9 @@ if sys.argv[1] == 'no':
 	numbers = 'no'
 import os
 if numbers == 'no':
-	cmd = f"cat {file_name} | lolcat"
+	cmd = f"cat {file_name} | lolcat -f | less -R"
 if numbers == 'yes':
-	cmd = f"cat {file_name} | lolcat"
+	cmd = f"cat {file_name} | lolcat -f | less  -N -R"
 
 os.system(cmd)
 
